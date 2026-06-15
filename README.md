@@ -1,11 +1,3 @@
-
-
-https://github.com/user-attachments/assets/51abf419-89e7-4024-8569-2174f37c519b
-
-
-
-https://github.com/user-attachments/assets/a27d840a-53e0-40ce-9ab5-3bfce181a764
-
 # CAN Bus Multi-Node Network — LED Synchronization on Two STM32F407
 
 Two STM32F407 boards talking to each other over a real CAN 2.0 bus. Press the button on one board, and the matching LED lights up on **both** — in real time, through the same wire pair that runs through every modern car.
@@ -23,6 +15,7 @@ This started as a supervised project at **ENSIT** (École Nationale Supérieure 
 *A real CAN frame captured on a PicoScope while the two nodes exchange data — the digital line carrying the bits on one channel, the bus signal on the other.*
 
 🎥 **Video demo:** [docs/demo.mp4](docs/demo.mp4)
+https://github.com/user-attachments/assets/a27d840a-53e0-40ce-9ab5-3bfce181a764
 
 ---
 
@@ -161,6 +154,7 @@ Ce projet est né d'un projet encadré à l'**ENSIT** (École Nationale Supérie
 *Une vraie trame CAN capturée au PicoScope pendant que les deux nœuds échangent des données — la ligne numérique portant les bits sur une voie, le signal du bus sur l'autre.*
 
 🎥 **Vidéo de démonstration :** [docs/demo.mp4](docs/demo.mp4)
+https://github.com/user-attachments/assets/a27d840a-53e0-40ce-9ab5-3bfce181a764
 
 ---
 
