@@ -49,6 +49,8 @@ For each STM32 → MCP2551:
 
 Then bridge the two transceivers: `CANH ↔ CANH`, `CANL ↔ CANL`, with the 120 Ω resistor across CANH/CANL at both ends.
 
+![Two-node CAN bus topology](docs/can_topology.png)
+
 ---
 
 ## CAN configuration
@@ -187,6 +189,8 @@ Pour chaque STM32 → MCP2551 :
 | GND | → | VSS |
 
 Puis on relie les deux transceivers : `CANH ↔ CANH`, `CANL ↔ CANL`, avec la résistance de 120 Ω entre CANH/CANL aux deux extrémités.
+
+![Two-node CAN bus topology](docs/can_topology.png)
 
 ---
 
